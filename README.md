@@ -47,9 +47,10 @@ Distribution: Half Normal
 
 ##### Expected: (n/3)x((2)^(1/2)  /(pi)^(1/2))= 2.6596152026762185
 #####  Standard Deviation: (n/3)x(1 - (2/pi))^(1/2) = 1.100575951691384
-##### Distribution: Half Normal Distribution (https://en.wikipedia.org/wiki/Half-normal_distribution)
+##### Distribution: Half Normal Distribution (https://en.wikipedia.org/wiki/Half-normal_distribution)  
 
-
+The model agrees with these results.  
+  
 #### Potential Improvements:
 Run on n-dimensions 
 * Need a way to calculate the expected Expected and Standard Deviations in n-dimensions  
